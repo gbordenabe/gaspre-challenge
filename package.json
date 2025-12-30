@@ -1,0 +1,10 @@
+{
+  "name": "gasprechallenge",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/demo.js"
+  }
+}
